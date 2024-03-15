@@ -568,6 +568,9 @@ nav {
   border: none;
   font-size: 1rem;
 }
+#submit{
+  background-color: #2f2f2f;
+}
 
 .footer__form button {
   padding: 1rem 1.5rem;
